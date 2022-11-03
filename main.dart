@@ -1,4 +1,4 @@
  void main() {
-  print('frist sample');
+  print('Second sample');
   
 }
